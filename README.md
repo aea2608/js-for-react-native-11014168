@@ -14,14 +14,15 @@ Takes two arrays as arguments: an array of strings and an array of numbers proce
 Modifies each string based on its corresponding number:
 Capitalizes the entire string if the number is even.
 Converts the string to lowercase if the number is odd.
+
 Task 2: userInfo.js
 
 createUserProfiles Function:
 Takes an array of names and the array of modified names from formatArrayStrings.
 Returns an array of objects, each containing:
 originalName
-modifiedName
-id (auto-incremented starting from 1)
+modified name
+
 Task 3: Project Usage
 
 Import the functions from arrayManipulation.js and userInfo.js.
